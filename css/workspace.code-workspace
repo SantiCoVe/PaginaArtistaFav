@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Actividades js\\Ejercicios"
+		},
+		{
+			"path": "..\\..\\Actividades js\\Ejemplos"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Eminem"
+	}
+}

@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    padding-left: 7%;
+    background-color: black;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+header #logo1{
+    height: 5rem;
+}
+
+header h1{
+    color: transparent;
+}
+
+.bio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    border-left: 80rem;
+    position: absolute;
+    left: 38rem;
+    right: 38rem;
+    top: 12rem;
+    padding-bottom: 11rem;
+    padding-top: 9rem;
+}
+
+.bio{
+    border: 1px solid black;
+    height: 2%;
+    border: double;
+    border-radius: 2rem;
+}
+
+.bio p{
+    padding-top: 2rem;
+    font-size: 120%;
+    text-align: center;
+    padding-top: 1%;
+}
+.bio span{
+    font-size: 200%;
+    font-weight: 850;
+    padding-top: 2%
+}
+section #logo2{
+    border-radius: 100%;
+    position: absolute;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 15rem;
+    right: 11.5rem;
+    top: 18.4rem;
+}
+
+#fase1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    right: 16.5rem;
+    top: 34.3rem;
+}
+
+#logo3{
+    position: absolute;
+    width: 15rem;
+    border-radius: 100%;
+    right: 11rem;
+    display: flex;
+    top: 37rem;
+}
+
+#fase2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    right: 16.5rem;
+    top: 850px;
+}
+
+#canciones{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    left: 10rem;
+    top: 13.7rem;
+}
+
+#can1{
+    border-radius: 100%;
+    position: absolute;
+    left:  11rem;
+    top: 18.4rem;
+    width: 15rem;
+}
+
+#can1N{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    left: 260px;
+    top: 34.3rem;
+    color: black;
+}
+
+#can2{
+    position: absolute;
+    width: 15rem;
+    border-radius: 100%;
+    left: 11rem;
+    top: 37rem;
+}
+
+#can2N{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 850px;
+    left: 230px;
+    color: black;
+}
+#instagram{
+    width: 10rem;
+    position: absolute;
+    display: flex;
+    right: 14rem;
+    top: 40rem;
+    left: 38rem;
+}
+#ins{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 38.6rem;
+    top: 51rem;
+    color: black;
+    font-size: 2rem;
+}
+
+#twitter{
+    width: 10rem;
+    position: absolute;
+    right: 55.5rem;
+    top: 41rem;
+}
+
+#twi{
+    position: absolute;
+    right: 57.5rem;
+    top: 51rem;
+    font-size: 2rem;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#youtube{
+    position: absolute;
+    top: 41rem;
+    width: 11rem;
+    right: 38rem;
+}
+
+#you{
+    position: absolute;
+    right: 39.5rem;
+    top: 51rem;
+    font-size: 2rem;
+    color: black;
+}
+
+#fases{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    width: 10rem;
+    right: 13.6rem;
+    top: 13.7rem;
+}
